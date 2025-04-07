@@ -92,7 +92,7 @@ function Main(){
           <div className="row align-items-center">
             {/* <!-- Left Column: Image --> */}
             <div className="col-md-6">
-              <img src="/images/section3.avif" alt="Stratesys" className="img-fluid rounded" />
+              <img src="/images/section3.avif" alt="Stratesys" className="img-fluid hero-image" />
             </div>
             {/* <!-- Right Column: Copy --> */}
             <div style={{marginLeft:"20px"}}  className="col-md-5 text-black ">
