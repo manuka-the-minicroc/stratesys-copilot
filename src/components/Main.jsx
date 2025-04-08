@@ -62,7 +62,7 @@ function Main(){
                   <li>•	Monitorización avanzada de productividad (KPIs específicos del negocio).</li>
                   <li>•	Integración técnica con Copilot Studio vía equipos de IT.</li>
                 </ul>
-                <Link to="/form"  className="btn btn-outline-primary">Agenda tu Demo</Link>
+                <Link to="/form"  className="btn btn-primary">Agenda tu Demo</Link>
               </div>
             </div>
           </div>
