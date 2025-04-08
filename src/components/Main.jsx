@@ -23,10 +23,10 @@ function Main(){
 
       {/* <!-- Section 2: Packs Cards --> */}
       <section className="container py-5">
-        <div className="row justify-content-center g-4">
+        <div className="row justify-content-center g-4 row-cols-1 row-cols-md-3">
           {/* <!-- Pack 1 --> */}
-          <div className="col-md-4 d-flex">
-            <div className="card custom-card">
+          <div className="col d-flex justify-content-center">
+            <div className="card custom-card w-100">
               <div className="card-body d-flex flex-column">
                 <h5 className="card-title hero-title">Fundamentos Copilot</h5>
                 <h6 className="card-subtitle mb-2 text-muted">Inicia tu viaje con IA</h6>
@@ -48,8 +48,8 @@ function Main(){
             </div>
           </div>
           {/* <!-- Pack 2 (Recommended) --> */}
-          <div className="col-md-4 d-flex">
-            <div className="card custom-card">
+          <div className="col-md-4 d-flex justify-content-center">
+            <div className="card custom-card w-100">
               <div className="card-body d-flex flex-column">
                 <h5 className="card-title hero-title">Productividad Aumentada</h5>
                 <h6 className="card-subtitle mb-2 text-muted">Optimiza tu día a día
@@ -67,8 +67,8 @@ function Main(){
             </div>
           </div>
           {/* <!-- Pack 3 --> */}
-          <div className="col-md-4 d-flex">
-            <div className="card custom-card">
+          <div className="col-md-4 d-flex justify-content-center">
+            <div className="card custom-card w-100">
               <div className="card-body d-flex flex-column">
                 <h5 className="card-title hero-title">Innovación y Excelencia</h5>
                 <h6 className="card-subtitle mb-2 text-muted">Lidera el futuro</h6>
