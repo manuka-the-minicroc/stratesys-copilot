@@ -32,11 +32,11 @@ function Main(){
                 <h5 className="card-title hero-title">Fundamentos Copilot</h5>
                 <h6 className="card-subtitle mb-2 text-muted">Inicia tu viaje con IA</h6>
                 <hr />
-                <ul className="list-unstyled flex-grow-1">
-                  <li>•	Despliegue técnico inicial con seguridad avanzada (Infraestructura preparada para IA).</li>
-                  <li>•	Sesiones Awareness: Conciencia y sensibilización sobre el potencial y uso ético de Copilot.</li>
-                  <li>•	Cursos Founderz (sin coste adicional): Formación básica accesible para todos.</li>
-                  <li>•	Comunicación interna personalizada:
+                <ul className="flex-grow-1 " style={{marginLeft:"-20px"}}>
+                  <li>Despliegue técnico inicial con seguridad avanzada (Infraestructura preparada para IA).</li>
+                  <li>Sesiones Awareness: Conciencia y sensibilización sobre el potencial y uso ético de Copilot.</li>
+                  <li>Cursos Founderz (sin coste adicional): Formación básica accesible para todos.</li>
+                  <li>Comunicación interna personalizada:
                     <ul>
                       <li> Infografías claras y atractivas</li>
                       <li> Vídeos explicativos con casos reales</li>
@@ -57,11 +57,11 @@ function Main(){
                   <span className="badge bg-purple text-white ms-2 align-middle">Popular</span>
                 </h6>
                 <hr />
-                <ul className="list-unstyled flex-grow-1">
-                  <li>•	Contenidos exclusivos EdTech desarrollados por expertos en pedagogía tecnológica.</li>
-                  <li>•	Taller "Copilot-in-a-day": aprende y aplica en una sola jornada.</li>
-                  <li>•	Monitorización avanzada de productividad (KPIs específicos del negocio).</li>
-                  <li>•	Integración técnica con Copilot Studio vía equipos de IT.</li>
+                <ul className="flex-grow-1" style={{marginLeft:"-20px"}}>
+                  <li>Contenidos exclusivos EdTech desarrollados por expertos en pedagogía tecnológica.</li>
+                  <li>Taller "Copilot-in-a-day": aprende y aplica en una sola jornada.</li>
+                  <li>Monitorización avanzada de productividad (KPIs específicos del negocio).</li>
+                  <li>Integración técnica con Copilot Studio vía equipos de IT.</li>
                 </ul>
                 <Link to="/form"  className="btn hoverStyle">Agenda tu Demo</Link>
               </div>
@@ -74,11 +74,11 @@ function Main(){
                 <h5 className="card-title hero-title">Innovación y Excelencia</h5>
                 <h6 className="card-subtitle mb-2 text-muted">Lidera el futuro</h6>
                 <hr />
-                <ul className="list-unstyled flex-grow-1">
-                  <li>•	Creación de un Centro de Excelencia (CoE) especializado en Copilot y Prompt Engineering.</li>
-                  <li>•	Contenidos avanzados EdTech+: Formación especializada para equipos estratégicos.</li>
-                  <li>•	Programa Masters Founders: Eleva a tus líderes a expertos internos en Copilot.</li>
-                  <li>•	Organización de Hackathon Copilots: Genera innovación interna a través del talento humano potenciado con IA.</li>
+                <ul className="flex-grow-1" style={{marginLeft:"-20px"}}>
+                  <li>Creación de un Centro de Excelencia (CoE) especializado en Copilot y Prompt Engineering.</li>
+                  <li>Contenidos avanzados EdTech+: Formación especializada para equipos estratégicos.</li>
+                  <li>Programa Masters Founders: Eleva a tus líderes a expertos internos en Copilot.</li>
+                  <li>Organización de Hackathon Copilots: Genera innovación interna a través del talento humano potenciado con IA.</li>
                 </ul>
                 <Link to="/form" className="btn hoverStyleVari">Agenda tu Demo</Link>
               </div>
