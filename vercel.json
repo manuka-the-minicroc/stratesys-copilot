@@ -1,12 +1,12 @@
 {
-    "rewrites": [
-      {
-        "source": "/copilot",
-        "destination": "/"
-      },
-      {
-        "source": "/copilot/(.*)",
-        "destination": "/$1"
-      }
-    ]
-  }
+  "rewrites": [
+    {
+      "source": "/copilot",
+      "destination": "/"
+    },
+    {
+      "source": "/copilot/(.*)",
+      "destination": "/"
+    }
+  ]
+}
