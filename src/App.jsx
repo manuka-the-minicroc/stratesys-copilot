@@ -19,7 +19,7 @@ function App() {
       <Routes>
         <Route path='/form' element={<Form />} />
         <Route path='/' element={<Main />} />
-        <Route path='/landing' element={<Main />} />
+        <Route path='/copilot' element={<Main />} />
       </Routes>
 
 
