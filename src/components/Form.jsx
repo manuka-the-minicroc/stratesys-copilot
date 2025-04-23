@@ -10,8 +10,8 @@ function Form() {
       maxWidth: '640px',  // Matches original iframe width
       margin: '0 auto',
       height: '480px',
-      borderRadius: '8px',
-        overflow: 'hidden',
+      
+      padding:'1.5rem'
     }}>
       <iframe
         title="Microsoft Copilot Adoption Pack Form"
@@ -23,7 +23,9 @@ function Form() {
           border: 'none',
           maxWidth: '100%',
           maxHeight: '100vh',
-          minHeight: '480px'  // Ensure minimum height
+          minHeight: '480px',
+          borderRadius: '8px',
+        
         }}
         allowFullScreen
         webkitallowfullscreen="true" 

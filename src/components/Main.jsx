@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 
+
 function Main(){
     return (
         <>
@@ -9,9 +10,9 @@ function Main(){
       <section className="container py-5">
         <div className="row align-items-center">
           <div className="col-md-6">
-            <h1 className="hero-title">Human + IA: La Fórmula del Éxito con Microsoft 365 Copilot</h1>
+            <h1 className="hero-titleB" >Human + IA: La Fórmula del Éxito con Microsoft 365 Copilot</h1>
             <p>En Stratesys creemos que el futuro de la productividad no es humano ni artificial, es híbrido. Microsoft 365 Copilot es más que una herramienta: es tu compañero de trabajo impulsado por Inteligencia Artificial que transforma el potencial humano en resultados excepcionales.</p>
-            <Link to="/form" className="btn btn-primary">Get Started</Link>
+            <Link to="/form"  className="btn hoverStyle ">Get Started</Link>
           </div>
           <div className="col-md-6">
             <img src="/images/hero.png" alt="Microsoft Copilot" className="img-fluid hero-image" />
@@ -43,7 +44,7 @@ function Main(){
                     </ul>
                   </li>
                 </ul>
-                <Link to="/form" className="btn btn-outline-primary">Agenda tu Demo</Link>
+                <Link to="/form" className="btn hoverStyleVari">Agenda tu Demo</Link>
               </div>
             </div>
           </div>
@@ -62,7 +63,7 @@ function Main(){
                   <li>•	Monitorización avanzada de productividad (KPIs específicos del negocio).</li>
                   <li>•	Integración técnica con Copilot Studio vía equipos de IT.</li>
                 </ul>
-                <Link to="/form"  className="btn btn-primary">Agenda tu Demo</Link>
+                <Link to="/form"  className="btn hoverStyle">Agenda tu Demo</Link>
               </div>
             </div>
           </div>
@@ -79,7 +80,7 @@ function Main(){
                   <li>•	Programa Masters Founders: Eleva a tus líderes a expertos internos en Copilot.</li>
                   <li>•	Organización de Hackathon Copilots: Genera innovación interna a través del talento humano potenciado con IA.</li>
                 </ul>
-                <Link to="/form" className="btn btn-outline-primary">Agenda tu Demo</Link>
+                <Link to="/form" className="btn hoverStyleVari">Agenda tu Demo</Link>
               </div>
             </div>
           </div>
@@ -102,7 +103,7 @@ function Main(){
                 <li>Metodología propia de adopción tecnológica con acompañamiento personalizado.</li>
                 <li>Compromiso con resultados tangibles: incrementos medibles en eficiencia y satisfacción.</li>
               </ul>
-              <Link to="/form" className="btn btn-primary">Habla con un Experto en Copilot</Link>
+              <Link to="/form" className="btn hoverStyle">Habla con un Experto en Copilot</Link>
             </div>
           </div>
         </div>
@@ -110,7 +111,7 @@ function Main(){
 
       {/* <!-- Section 4: Final Section --> */}
       <section className="container py-5 text-center">
-        <h2>Stratesys: La transformación inteligente comienza aquí.</h2>
+        <h2 className="hero-title">Stratesys: La transformación inteligente comienza aquí.</h2>
         <p>Empieza hoy mismo con Microsoft Copilot junto a nosotros y experimenta una productividad de otro nivel.</p>
       </section>
         </>
