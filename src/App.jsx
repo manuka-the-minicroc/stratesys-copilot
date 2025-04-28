@@ -20,6 +20,7 @@ function App() {
         <Route path='/form' element={<Form />} />
         <Route path='/' element={<Main />} />
         <Route path='/copilot' element={<Main />} />
+        
       </Routes>
 
 
