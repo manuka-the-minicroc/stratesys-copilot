@@ -44,7 +44,7 @@ function Main(){
                     </ul>
                   </li>
                 </ul>
-                <Link to="/form" className="btn hoverStyleVari">Más Información</Link>
+                <Link to="/form" className="btn hoverStyleVari">Solicitar Información</Link>
               </div>
             </div>
           </div>
@@ -63,7 +63,7 @@ function Main(){
                   <li>Monitorización avanzada de productividad (KPIs específicos del negocio).</li>
                   <li>Integración técnica con Copilot Studio vía equipos de IT.</li>
                 </ul>
-                <Link to="/form"  className="btn hoverStyle">Más Información</Link>
+                <Link to="/form"  className="btn hoverStyle">Solicitar Información</Link>
               </div>
             </div>
           </div>
@@ -80,7 +80,7 @@ function Main(){
                   <li>Programa Masters Founders: Eleva a tus líderes a expertos internos en Copilot.</li>
                   <li>Organización de Hackathon Copilots: Genera innovación interna a través del talento humano potenciado con IA.</li>
                 </ul>
-                <Link to="/form" className="btn hoverStyleVari">Más Información</Link>
+                <Link to="/form" className="btn hoverStyleVari">Solicitar Información</Link>
               </div>
             </div>
           </div>
