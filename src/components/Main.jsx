@@ -33,14 +33,15 @@ function Main(){
                 <h6 className="card-subtitle mb-2 text-muted">Inicia tu viaje con IA</h6>
                 <hr />
                 <ul className="flex-grow-1 " style={{marginLeft:"-20px"}}>
-                  <li>Despliegue técnico inicial con seguridad avanzada (Infraestructura preparada para IA).</li>
+                  <li>Despliegue técnico inicial con seguridad avanzada.</li>
+                  <li>Apoyo en la selección de usuarios clave para el piloto de adopción interno.</li>
                   <li>Sesiones Awareness: Conciencia y sensibilización sobre el potencial y uso ético de Copilot.</li>
                   <li>Cursos Founderz (sin coste adicional): Formación básica accesible para todos.</li>
                   <li>Comunicación interna personalizada:
                     <ul>
                       <li> Infografías claras y atractivas</li>
                       <li> Vídeos explicativos con casos reales</li>
-                      <li> Guías rápidas: Funcionalidades y beneficios claros.</li>
+                      <li> Guías rápidas</li>
                     </ul>
                   </li>
                 </ul>
