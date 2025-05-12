@@ -12,7 +12,14 @@ function Main(){
           <div className="col-md-6">
             <h1 className="hero-titleB" >Human + IA: La Fórmula del Éxito con Microsoft 365 Copilot</h1>
             <p>En Stratesys creemos que el futuro de la productividad no es humano ni artificial, es híbrido. Microsoft 365 Copilot es más que una herramienta: es tu compañero de trabajo impulsado por Inteligencia Artificial que transforma el potencial humano en resultados excepcionales.</p>
-            <Link to="/form"  className="btn hoverStyle ">Empieza ya tu formación</Link>
+            <a 
+            href="https://founderz.com/es/programa/ia-para-empresas/stratesys/" 
+            className="btn hoverStyle"
+            target="_blank" 
+            rel="noopener noreferrer"
+            >
+            Empieza ya tu formación
+            </a>
           </div>
           <div className="col-md-6">
             <img src="/images/hero.png" alt="Microsoft Copilot" className="img-fluid hero-image" />
@@ -104,7 +111,6 @@ function Main(){
                 <li>Metodología propia de adopción tecnológica con acompañamiento personalizado.</li>
                 <li>Compromiso con resultados tangibles: incrementos medibles en eficiencia y satisfacción.</li>
               </ul>
-              <Link to="/form" className="btn hoverStyle">Habla con un Experto en Copilot</Link>
             </div>
           </div>
         </div>
